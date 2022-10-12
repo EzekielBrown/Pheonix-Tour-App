@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7yEg+FdUDOFMe5pMx7TzCuteYnN+U7j4EKnvYWFuGnC40zZnxKUGBBINZCIvnFPHiFxbqhY/EiZ3cjGNjGX9kw==",
+  "dgSpecHash": "EQZoCuM4BXip4khMwa8I8RVa6ncJ9dgy3/UG9zHoVgPn7GvLDZgCcKy0GSwFR7Q+s7v1kvIxPZIMJ3hLpdnnlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zekbr\\workspace\\Pheonix-Tour-App\\ProjectTours\\ProjectTours\\ProjectTours.csproj",
+  "projectFilePath": "C:\\Users\\zekbr\\workspace\\Phoenix-Tour-App\\ProjectTours\\ProjectTours\\ProjectTours.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zekbr\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

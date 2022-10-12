@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zekbr\\workspace\\Pheonix-Tour-App\\ProjectTours\\ProjectTours\\ProjectTours.csproj",
+      "projectUniqueName": "C:\\Users\\zekbr\\workspace\\Phoenix-Tour-App\\ProjectTours\\ProjectTours\\ProjectTours.csproj",
       "projectName": "ProjectTours",
-      "projectPath": "C:\\Users\\zekbr\\workspace\\Pheonix-Tour-App\\ProjectTours\\ProjectTours\\ProjectTours.csproj",
+      "projectPath": "C:\\Users\\zekbr\\workspace\\Phoenix-Tour-App\\ProjectTours\\ProjectTours\\ProjectTours.csproj",
       "packagesPath": "C:\\Users\\zekbr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zekbr\\workspace\\Pheonix-Tour-App\\ProjectTours\\ProjectTours\\obj\\",
+      "outputPath": "C:\\Users\\zekbr\\workspace\\Phoenix-Tour-App\\ProjectTours\\ProjectTours\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zekbr\\AppData\\Roaming\\NuGet\\NuGet.Config",
