@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CostingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OtherCostingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StaffCostingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VehicleCostingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TourForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
